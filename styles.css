@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.leftlinks, .rightlinks{
+    padding: 2vw;
+    margin-top: 2.5vh;
+    display: inline-block;
+}
+.leftlinks{
+    float: left;
+}
+.rightlinks{
+    float: right;
+}
+.leftlinks ul li, .rightlinks ul li{
+    display: inline;
+    margin-left: 4vw;
+}
+.leftlinks ul li a, .rightlinks ul li a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    background-color: #511450;
+    height: 10vh;
+}
+section{
+    height: 90vh;
+    background-color: #511450;
+}
