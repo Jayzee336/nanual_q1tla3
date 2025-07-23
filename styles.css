@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.leftlinks, .rightlinks1{
+    padding: 2vw;
+    margin-top: 2.5vh;
+    display: inline-block;
+}
+.leftlinks{
+    float: left;
+}
+.rightlinks1{
+    float: right;
+}
+.rightlinks2{
+    border: 1px solid white;
+    padding: 15px;
+}
+.rightlinks3{
+    border: 1px solid white;
+    padding: 15px;
+    background-color: white;
+}
+.leftlinks ul li, .rightlinks1 ul li{
+    display: inline;
+    margin-left: 4vw;
+}
+.leftlinks ul li a, .rightlinks1 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.text1{
+    background-color: #4D204F;
+    text-indent: 50px;
+    font-size: 50px;
+    color: white;
+}
+.text2{
+    background-color: #4D204F;
+    text-indent: 50px;
+    font-size: 50px;
+    color: #E6B055;
+}
+.text3{
+    background-color: #4D204F;
+    line-height: 2;
+    text-indent: 50px;
+    font-size: 30px;
+    color: white;
+}
+.text4{
+    float: left;
+    margin-left: 50px;
+    border: 20px solid white;
+    font-size: 20px;
+    background-color: white;    
+}
+.text5{
+    float: left;
+    margin-left: 50px;
+    border: 20px solid #4C89EA;
+    font-size: 20px;
+    background-color: #4C89EA;
+    color: white;
+}
+.text6{
+    background-color: #4D204F;
+    float: left;
+    line-height: 3;
+    text-indent: 50px;
+    font-size: 30px;
+    color: white;
+}
+header{
+    background-color: #4D204F;
+    height: 10vh;
+}
+section{
+    height: 90vh;
+    background-color: #4D204F;
+}
